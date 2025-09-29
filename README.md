@@ -55,4 +55,14 @@ Tareas a realizar
 
 I need to highlight these ==very important words==.
 
+I need to highlight these <mark>very important words</mark>
+
+<dl>
+  <dt><mark>Término 1</mark></dt>
+  <dd>Definición del término 1.</dd>
+  
+  <dt><mark>Término 2</mark></dt>
+  <dd>Definición del término 2.</dd>
+</dl>
+
 [^1]: Este es el pie de página
