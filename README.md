@@ -21,3 +21,9 @@
 Enlace a web del centro desarrollador:  [GF](https://www.gregoriofer.com)
 
 Imagen corporativa  ![LogoGF](https://gregoriofer.com/logo.jpg)
+
+| Identificador | Nombre del alumno |
+| ----------- | ----------- |
+| 1 | Victor |
+| 2| Jorge |
+| 2| Laura |
