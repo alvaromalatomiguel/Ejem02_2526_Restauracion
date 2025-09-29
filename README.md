@@ -1,3 +1,6 @@
+Nombre del propietario del proyecto: Álvaro Malato.
+
+
 # Ejem02_2526_Restauracion
 # H1
 ## H2
