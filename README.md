@@ -13,3 +13,11 @@
 - First item
 - Second item
 - Third item
+
+`String variable="Esto es una cadena de texto"`
+
+---
+
+Enlace a web del centro desarrollador:  [GF](https://www.gregoriofer.com)
+
+Imagen corporativa  ![LogoGF](https://gregoriofer.com/logo.jpg)
