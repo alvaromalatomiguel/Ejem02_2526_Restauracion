@@ -36,4 +36,12 @@ Imagen corporativa  ![LogoGF](https://gregoriofer.com/logo.jpg)
 }
 ```
 
+Git
+: Control de versiones utilizado
+IDE
+: Eclipse para utilizar proyectos.
+
+
+
+
 [^1]: Este es el pie de página
