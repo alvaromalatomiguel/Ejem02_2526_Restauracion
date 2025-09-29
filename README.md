@@ -35,3 +35,5 @@ Imagen corporativa  ![LogoGF](https://gregoriofer.com/logo.jpg)
   "age": 25
 }
 ```
+
+[^1]: Este es el pie de página
