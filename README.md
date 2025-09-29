@@ -43,7 +43,8 @@ Git
 IDE
 : Eclipse para utilizar proyectos.
 
-
+term
+: definition
 
 
 [^1]: Este es el pie de página
