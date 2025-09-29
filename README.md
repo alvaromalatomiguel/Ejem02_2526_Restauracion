@@ -38,6 +38,8 @@ Imagen corporativa  ![LogoGF](https://gregoriofer.com/logo.jpg)
 
 Git
 : Control de versiones utilizado
+
+
 IDE
 : Eclipse para utilizar proyectos.
 
