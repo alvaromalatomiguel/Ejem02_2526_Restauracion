@@ -47,4 +47,10 @@ term
 : definition
 
 
+Tareas a realizar
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+
 [^1]: Este es el pie de página
