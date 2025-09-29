@@ -27,3 +27,11 @@ Imagen corporativa  ![LogoGF](https://gregoriofer.com/logo.jpg)
 | 1 | Victor |
 | 2| Jorge |
 | 2| Laura |
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
