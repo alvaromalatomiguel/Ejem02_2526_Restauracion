@@ -1,3 +1,5 @@
+Propietario: Álvaro Malato Miguel
+
 # Ejem02_2526_Restauracion
 
 # H1
